@@ -9,7 +9,7 @@ int Win;
 char const P1S = 'X', P2S = '0', NPS = '-';
 void Instructions()
 {
-    cout << "source-code: https://github.com/LoLToHell/cpp_examples/\n" << endl;
+    cout << "Исходный код: https://github.com/LoLToHell/cpp_examples/\n" << endl;
     cout << "Автор - LoLToHell" << endl;
     cout << "Привет, мир. Добро пожаловать " << endl;
     cout << "в мою первую игру - Крестики нолики.\n" << endl;
