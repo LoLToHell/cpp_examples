@@ -262,7 +262,7 @@ void Outpoot(char a[N][N])
  
 int main()
 {
-    setlocale(LC_ALL, "RUS");
+    setlocale(LC_ALL, "ENG");
     bool Retry = true;
     char a;
     while (Retry)
