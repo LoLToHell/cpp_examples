@@ -269,7 +269,7 @@ int main()
     {
         char Game[N][N];
         Outpoot(Game);
-        cout << "\nDo you want to repeat? (y/s): ";
+        cout << "\nDo you want to repeat? (y/n): ";
         while (!(cin >> a) || a != 'y' && a != 'n')
         {
             cin.clear();
